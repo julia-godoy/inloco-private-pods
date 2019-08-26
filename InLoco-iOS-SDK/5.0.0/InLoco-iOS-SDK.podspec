@@ -19,4 +19,3 @@ Pod::Spec.new do |s|
                           'InLocoSDK/InLocoSDKLocation.framework'
   s.requires_arc = true
 end
-
